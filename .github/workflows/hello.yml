@@ -11,4 +11,4 @@ jobs:
       - name: Date
         run: date
       - name: Current dir
-        run: ls
+        run: ls -l
